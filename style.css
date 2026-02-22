@@ -509,7 +509,7 @@ ul { list-style: none; }
 @media (max-width: 768px) {
     .navbar { padding: 15px; }
     .nav-links {
-        background: white;
+       
         box-shadow: 0 10px 40px rgba(0,0,0,0.1);
         color: var(--text-main);
     }
